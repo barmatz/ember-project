@@ -1,0 +1,22 @@
+{
+  "name": "ember-project",
+  "version": "0.0.0",
+  "description": "A vanilla Ember.js project ",
+  "homepage": "https://github.com/barmatz/ember-project",
+  "author": {
+    "name": "Or Barmatz",
+    "email": "barmatzor@gmail.com"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.13.5",
+    "handlebars": "~3.0.3"
+  }
+}
